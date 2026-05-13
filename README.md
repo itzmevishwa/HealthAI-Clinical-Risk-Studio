@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-**👉 [nhanes-health-ai.streamlit.app](https://nhanes-health-ai.streamlit.app)**
+**👉 [nhanes-health-ai.streamlit.app](https://healthai-clinical-risk-studio.streamlit.app/)**
 
 Enter any patient's health measurements and get instant risk predictions across 7 conditions with personalised health advice.
 
