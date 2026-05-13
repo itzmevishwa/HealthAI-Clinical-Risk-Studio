@@ -1,0 +1,17 @@
+venv/
+data/
+results/
+reports/
+__pycache__/
+*.xpt
+*.XPT
+*.csv
+*.db
+*.sql
+1_load_to_sql.py
+2_clean_merge.sql
+3_features.py
+4_train_models.py
+5_ai_advice.py
+*.docx
+*.pptx
