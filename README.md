@@ -314,6 +314,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built with ❤️ during Data Science & Machine Learning Internship**
 
 [![GitHub](https://img.shields.io/badge/GitHub-itzmevishwa-black?logo=github)](https://github.com/itzmevishwa)
-[![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://nhanes-health-ai.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://healthai-clinical-risk-studio.streamlit.app/)
 
 </div>
