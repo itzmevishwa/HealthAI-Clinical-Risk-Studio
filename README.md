@@ -3,7 +3,7 @@
 > **Machine Learning Health Risk Prediction Platform trained on NHANES 2021–2023 data**  
 > Predicts 7 cardiometabolic conditions and delivers personalised AI health advice through an interactive web dashboard.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nhanes-health-ai.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthai-clinical-risk-studio.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://mysql.com)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-green.svg)](https://scikit-learn.org)
@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-**👉 [nhanes-health-ai.streamlit.app](https://nhanes-health-ai.streamlit.app)**
+**👉 [nhanes-health-ai.streamlit.app](https://healthai-clinical-risk-studio.streamlit.app)**
 
 Enter any patient's health measurements and get instant risk predictions across 7 conditions with personalised health advice.
 
@@ -314,6 +314,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built with ❤️ during Data Science & Machine Learning Internship**
 
 [![GitHub](https://img.shields.io/badge/GitHub-itzmevishwa-black?logo=github)](https://github.com/itzmevishwa)
-[![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://nhanes-health-ai.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://healthai-clinical-risk-studio.streamlit.app)
 
 </div>
