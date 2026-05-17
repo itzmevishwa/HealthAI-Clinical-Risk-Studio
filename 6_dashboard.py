@@ -1094,11 +1094,11 @@ def main():
         <div class="hero-eyebrow">NHANES 2021–2023  ·  Clinical AI</div>
         <div class="hero-title">HealthAI Clinical Risk Studio</div>
         <div class="hero-sub">
-          Real-time cardiometabolic risk assessment across 7 conditions with personalised clinical guidance — powered by ensemble machine learning trained on 6,102 patient records.
+          Real-time cardiometabolic risk assessment across 7 conditions with personalised clinical guidance — powered by ensemble machine learning trained on 6,174 patient records.
         </div>
         <div class="hero-pills">
           <span class="pill">7 ML Models</span>
-          <span class="pill g">6,102 Records</span>
+          <span class="pill g">6,174 Records</span>
           <span class="pill a">Evidence-Based Advice</span>
           <span class="pill">NHANES 2021–2023</span>
         </div>

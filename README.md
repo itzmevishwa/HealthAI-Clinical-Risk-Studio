@@ -47,7 +47,7 @@ Enter any patient's health measurements and get instant risk predictions across 
 This project builds a complete end-to-end machine learning pipeline using the **NHANES 2021–2023** (National Health and Nutrition Examination Survey) dataset published by the **CDC (Centers for Disease Control and Prevention, USA)**.
 
 The platform:
-- Trains **21 ML models** (3 algorithms × 7 targets) on **6,235 real patient records**
+- Trains **21 ML models** (3 algorithms × 7 targets) on **6,174 real patient records**
 - Predicts **7 cardiometabolic health conditions** per patient
 - Generates a **personalised 6-section health report** based on ADA, AHA, and WHO clinical guidelines
 - Delivers everything through a **professional 7-page Streamlit dashboard**
@@ -83,7 +83,7 @@ The platform:
 
 - **Total files:** 19 XPT files
 - **Original records:** 11,933 respondents
-- **After cleaning:** 6,235 examined adults aged 18–80
+- **After cleaning:** 6,174 examined adults aged 18–80
 
 ---
 
@@ -91,7 +91,7 @@ The platform:
 
 ```
 Step 1 → 1_load_to_sql.py      Load 19 XPT files into MySQL (19 tables)
-Step 2 → 2_clean_merge.sql     SQL cleaning + merge → 6,235 clean rows
+Step 2 → 2_clean_merge.sql     SQL cleaning + merge → 6,174 clean rows
 Step 3 → 3_features.py         Feature engineering → 60 features
 Step 4 → 4_train_models.py     Train 21 ML models → save 7 best .pkl files
 Step 5 → 5_ai_advice.py        AI health advice engine (standalone)
