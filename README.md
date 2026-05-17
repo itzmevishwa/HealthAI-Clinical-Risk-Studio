@@ -14,7 +14,11 @@
 
 ## 🌐 Live Demo
 
+<<<<<<< HEAD
 **👉 [nhanes-health-ai.streamlit.app](https://healthai-clinical-risk-studio.streamlit.app)**
+=======
+**👉 [nhanes-health-ai.streamlit.app](https://healthai-clinical-risk-studio.streamlit.app/)**
+>>>>>>> c53f2fd9fb362b65a77e5e227b7e2e556e7d1195
 
 Enter any patient's health measurements and get instant risk predictions across 7 conditions with personalised health advice.
 
@@ -314,6 +318,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built with ❤️ during Data Science & Machine Learning Internship**
 
 [![GitHub](https://img.shields.io/badge/GitHub-itzmevishwa-black?logo=github)](https://github.com/itzmevishwa)
+<<<<<<< HEAD
 [![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://healthai-clinical-risk-studio.streamlit.app)
+=======
+[![Live App](https://img.shields.io/badge/Live-nhanes--health--ai.streamlit.app-FF4B4B?logo=streamlit)](https://healthai-clinical-risk-studio.streamlit.app/)
+>>>>>>> c53f2fd9fb362b65a77e5e227b7e2e556e7d1195
 
 </div>
